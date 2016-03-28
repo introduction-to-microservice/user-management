@@ -1,0 +1,31 @@
+{
+  "name": "user-management",
+  "version": "1.0.0",
+  "description": "This repository provides a demonstration on using mongo-db with nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/introduction-to-microservice/user-management.git"
+  },
+  "keywords": [
+    "microservices",
+    "mongo",
+    "nodejs"
+  ],
+  "author": "Avinash Bhosale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/introduction-to-microservice/user-management/issues"
+  },
+  "homepage": "https://github.com/introduction-to-microservice/user-management#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "jshint": "^2.9.1",
+    "jshint-stylish": "^2.1.0"
+  }
+}
